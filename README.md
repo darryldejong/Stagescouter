@@ -1,6 +1,9 @@
 # StageScouter
 Stagescouter maakt gebruik van webscraping om vacatures van de website stagemarkt.nl te verzamelen en slaat de zoekresultaten op in een Excel-bestand. Je kunt zoeken op basis van een trefwoord, plaats of een combinatie van beide.
 
+![Afbeeldingterminal](Terminal.png)
+
+
 ## Functionaliteiten:
 - Zoek vacatures op basis van een trefwoord (bijv. "Marketing").
 - Zoek vacatures op basis van een plaats (bijv. "Apeldoorn").
