@@ -1,5 +1,5 @@
 # StageScouter
-Stagescouter maakt gebruik van webscraping om vacatures van de website stagemarkt.nl te verzamelen en slaat de zoekresultaten op in een Excel-bestand. Je kunt zoeken op basis van een trefwoord, plaats of een combinatie van beide.
+Stagescouter gebruikt webscraping om vacatures van stagemarkt.nl te verzamelen en slaat de resultaten op in een Excel-bestand. Je kunt zoeken op trefwoord, plaats of beide.
 
 ![Afbeeldingterminal](Terminal.png)
 
@@ -18,7 +18,7 @@ Installeer deze python libraries met pip install.
 - openpyxl
 
 ### Disclaimer:
-Stagescouter gebruikt webscraping om gegevens van stagemarkt.nl te verzamelen. Het is van essentieel belang om de gebruiksvoorwaarden van de website altijd te respecteren en de tool op een verantwoorde manier te gebruiken. Het gebruik van Stagescouter voor commerciële doeleinden kan de regels van de website schenden. De ontwikkelaar is niet aansprakelijk voor misbruik of voor juridische gevolgen die hierdoor kunnen ontstaan. Stagescouter is bedoeld voor educatieve doeleinden en dient met respect voor de website-eigenaren te worden gebruikt.
+Stagescouter verzamelt gegevens van stagemarkt.nl door middel van webscraping. Gebruik de tool verantwoord en respecteer de gebruiksvoorwaarden. Commercieel gebruik kan de regels schenden. De ontwikkelaar is niet verantwoordelijk voor misbruik of juridische gevolgen. Stagescouter is voor educatieve doeleinden.
 
 
 
