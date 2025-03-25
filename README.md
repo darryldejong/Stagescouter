@@ -1,7 +1,7 @@
 # StageScouter
 Stagescouter gebruikt webscraping om vacatures van stagemarkt.nl te verzamelen en slaat de resultaten op in een Excel-bestand. Je kunt zoeken op trefwoord, plaats of beide.
 
-![Afbeeldingterminal](Terminal.png)
+![Image](/images/image.png)
 
 
 ## Functionaliteiten:
@@ -19,7 +19,3 @@ Installeer deze python libraries met pip install.
 
 ### Disclaimer:
 Stagescouter verzamelt gegevens van stagemarkt.nl door middel van webscraping. Gebruik de tool verantwoord en respecteer de gebruiksvoorwaarden. Commercieel gebruik kan de regels schenden. De ontwikkelaar is niet verantwoordelijk voor misbruik of juridische gevolgen. Stagescouter is voor educatieve doeleinden.
-
-
-
-
